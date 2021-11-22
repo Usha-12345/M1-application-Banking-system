@@ -1,1 +1,1 @@
-# M1-application-hospital-management-system
+# M1-application-Banking-system
