@@ -1,0 +1,1 @@
+ the functional requirements of the Hospital Management System, which contains various process, namely Registration, Check out, Report Generation, and Database.
